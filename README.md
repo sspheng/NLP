@@ -36,7 +36,8 @@ Tokenization.
 
 Text lower casing. 
 
-![Capture](https://github.com/sspheng/Natural-Language-Processing/assets/78303183/829bebf8-14ee-4067-8527-74ab78095d04)
+![Capture](https://github.com/sspheng/Natural-Language-Processing/assets/78303183/b059171d-6fef-4bd6-861c-6c0f5e36bd5b)
+
 
 C> STEPS OF NATURAL LANGUAGE PROCESSING
 
