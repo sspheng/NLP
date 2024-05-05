@@ -82,15 +82,15 @@ The power behind speech recognition features comes from a set of algorithms and 
 
 2. Capturing Features Vectors from text (Text Data Feature Engineering)
 
-- BOW (bag of words)
+- BOW (bag of words) or
 
-- TF-IDF (term frequency – Inverse document frequency)
+- TF-IDF (term frequency – Inverse document frequency) or
 
-- Word Embeddings (word2vec model)
+- Word Embeddings (word2vec model) or
 
-- doc2vec model
+- doc2vec model or
 
-- CBOW and skip-grams
+- CBOW and skip-grams or
 
 3. Final step is to use the AI-ML Model appropriate for the task (i.e. Usecases/Applications of NLP)
 
