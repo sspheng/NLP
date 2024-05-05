@@ -61,8 +61,48 @@ The power behind speech recognition features comes from a set of algorithms and 
 
 4. Artificial intelligence. AI and machine learning methods like deep learning and neural networks are common in advanced speech recognition software. These systems use grammar, structure, syntax and composition of audio and voice signals to process speech. Machine learning systems gain knowledge with each use, making them well suited for nuances like accents.
 
+***Steps in any NLP Program:
 
-Reference and Contact info:
+1. Text Pre-Processing
+- Word Tokenization, or
+
+-Sentence Tokenization
+
+- mixed case to lower case
+
+- punctuation removal
+  
+- stopwords removal
+
+- number removal, only if needed
+
+- Stemming, or
+
+- Lemmatization
+
+2. Capturing Features Vectors from text (Text Data Feature Engineering)
+
+- BOW (bag of words)
+
+- TF-IDF (term frequency – Inverse document frequency)
+
+- Word Embeddings (word2vec model)
+
+- doc2vec model
+
+- CBOW and skip-grams
+
+3. Final step is to use the AI-ML Model appropriate for the task (i.e. Usecases/Applications of NLP)
+
+- For Spam Detection, Fake News Detection, Sentiment Analysis, etc. (Classification Models like NB, Logit, KNN, SVM, DTree, etc.)
+
+- PoS (Part of Speech) Tagging and NER (Named Entity Recognition)
+
+- Topic Modelling or Document tagging (via LDA, QDA)
+
+- Article Summarization
+
+- Machine Translation and TransliterationReference and Contact info:
 
 www.careerera.com
 
